@@ -16,12 +16,12 @@ Movie search engines can handle many variations based on actor/director names, l
 
 ### Data
 
-- Top-grossing data: Wikipedia plot sections scraped from Wikipedia list of highest grossing films]([https://en.wikipedia.org/wiki/List_of_highest-grossing_films)
+- Top-grossing data: Wikipedia plot sections scraped from [Wikipedia list of highest grossing films](https://en.wikipedia.org/wiki/List_of_highest-grossing_films)
 Test queries: paraphrasing individual plot sentences and paragraphs
 
-- TOMT data: Top 10 movies with the longest queries from 'I Remember This Movie' forum (source)[https://github.com/microsoft/Tip-of-the-Tongue-Known-Item-Retrieval-Dataset-for-Movie-Identification]
+- TOMT data: Top 10 movies with the longest queries from 'I Remember This Movie' forum [source](https://github.com/microsoft/Tip-of-the-Tongue-Known-Item-Retrieval-Dataset-for-Movie-Identification)
 
-- Augmentation: (Parrot)[] and (Pegasus)[]
+- Augmentation: [Parrot](https://huggingface.co/prithivida/parrot_paraphraser_on_T5) and [Pegasus](https://huggingface.co/tuner007/pegasus_paraphrase)
 
 ### Semantic Similarity
 - Embedding methods
