@@ -36,7 +36,7 @@ Test queries: paraphrasing individual plot sentences and paragraphs
   - 80:20 train/test split over 280 pairs, 10 epochs, AdamW optimizer
   - 68.57% accuracy over test split 
 
-### Results 
+## Results 
 ![image](https://user-images.githubusercontent.com/40300910/209452102-77a5b5a0-5643-4524-8485-84f2e392a508.png)
 
 - Paraphrasing may not generate queries representative of typical end users, due to proper nouns in film media ('Bifrost', 'Odin' etc.)
